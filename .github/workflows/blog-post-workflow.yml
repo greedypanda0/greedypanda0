@@ -1,9 +1,10 @@
 name: Latest blog post workflow
-
 on:
-  schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:     # optional: allows manual run
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: 
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
