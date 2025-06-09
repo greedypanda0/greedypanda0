@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#fdf6e3">
+9<div align="center" style="background-color:#fdf6e3">
 
 <h1>Hi 👋, I'm Greedy Panda</h1>
 <h3>A passionate software developer from India who likes building things from scratch — the hard but fun way.</h3>
@@ -19,7 +19,7 @@
 👨‍💻 Check out my projects: <a href="https://prathamrajpoot.netlify.app">prathamrajpoot</a><br/>
 📝 I’ll be writing dev blogs soon — stay tuned 🚧<br/>
 💬 Ask me anything! I'm always down to talk code or chaos.<br/>
-📫 Reach me at <strong>lucky.dream.ok</strong><br/>
+📫 Reach me at <a href="mailto:dream.lucky.ok@gmail.com">dream.lucky.ok</a><br/>
 📄 My dev journey: <a href="https://prathamrajpoot.netlify.app/journey">prathamrajpoot/journey</a><br/>
 ⚡ Fun fact: I think I’m funny. I think.
 
