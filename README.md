@@ -13,14 +13,17 @@
 
 ---
 
-🌱 Currently learning **Rust, C#, .NET, Go, and more**  
-👨‍💻 Check out my projects: [prathamrajpoot.netlify.app](https://prathamrajpoot.netlify.app)  
-📝 I’ll be writing dev blogs soon — stay tuned 🚧  
-💬 Ask me anything! I'm always down to talk code or chaos.  
-📫 Reach me at **lucky.dream.ok@gmail.com**  
-📄 My dev journey: [prathamrajpoot.netlify.app/journey](https://prathamrajpoot.netlify.app/journey)  
+<div align="left">
+
+🌱 Currently learning <strong>Rust, C#, .NET, Go, and more</strong><br/>
+👨‍💻 Check out my projects: <a href="https://prathamrajpoot.netlify.app">prathamrajpoot.netlify.app</a><br/>
+📝 I’ll be writing dev blogs soon — stay tuned 🚧<br/>
+💬 Ask me anything! I'm always down to talk code or chaos.<br/>
+📫 Reach me at <strong>lucky.dream.ok@gmail.com</strong><br/>
+📄 My dev journey: <a href="https://prathamrajpoot.netlify.app/journey">prathamrajpoot.netlify.app/journey</a><br/>
 ⚡ Fun fact: I think I’m funny. I think.
 
+</div>
 ---
 
 ### 🧠 Languages and Tools
