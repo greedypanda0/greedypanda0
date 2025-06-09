@@ -24,6 +24,7 @@
 ⚡ Fun fact: I think I’m funny. I think.
 
 </div>
+
 ---
 
 ### 🧠 Languages and Tools
