@@ -16,4 +16,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/greedypanda0, https://medium.com/feed/@rajpootpratham904"
-          gh_token: ${{ secrets.gh_token }}
+          gh_token: ${{ secrets.GH_TOKEN }}
