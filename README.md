@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#fdf6e3; padding: 5px; border-radius: 15px;">
+<div align="center" style="background-color:#fdf6e3">
 
 <h1>Hi 👋, I'm Greedy Panda</h1>
 <h3>A passionate software developer from India who likes building things from scratch — the hard but fun way.</h3>
