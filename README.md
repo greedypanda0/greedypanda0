@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Greedy Panda</h1>
-<h3 align="center">A passionate software developer from India who likes building things from scratch — the hard but fun way.</h3>
+<div align="center" style="background-color:#fdf6e3; padding: 30px; border-radius: 15px;">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=greedypanda0&label=Profile%20views&color=0e75b6&style=flat" alt="greedypanda0" />
-</p>
+<h1>Hi 👋, I'm Greedy Panda</h1>
+<h3>A passionate software developer from India who likes building things from scratch — the hard but fun way.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=greedypanda0&theme=onestar&no-bg=true&margin-w=15&row=2&column=3" alt="greedypanda0" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=greedypanda0&label=Profile%20views&color=0e75b6&style=flat" alt="greedypanda0" />
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=greedypanda0&theme=onestar&no-bg=true&margin-w=15&row=2&column=3" alt="greedypanda0" />
+</a>
 
 ---
 
-- 🌱 Currently learning **Rust, C#, .NET, Go, and more**
-- 👨‍💻 Check out my projects: [prathamrajpoot.netlify.app](https://prathamrajpoot.netlify.app)
-- 📝 I’ll be writing dev blogs soon — stay tuned 🚧
-- 💬 Ask me anything! I'm always down to talk code or chaos.
-- 📫 Reach me at **lucky.dream.ok@gmail.com**
-- 📄 My dev journey: [prathamrajpoot.netlify.app/journey](https://prathamrajpoot.netlify.app/journey)
-- ⚡ Fun fact: I think I’m funny. I think.
+🌱 Currently learning **Rust, C#, .NET, Go, and more**  
+👨‍💻 Check out my projects: [prathamrajpoot.netlify.app](https://prathamrajpoot.netlify.app)  
+📝 I’ll be writing dev blogs soon — stay tuned 🚧  
+💬 Ask me anything! I'm always down to talk code or chaos.  
+📫 Reach me at **lucky.dream.ok@gmail.com**  
+📄 My dev journey: [prathamrajpoot.netlify.app/journey](https://prathamrajpoot.netlify.app/journey)  
+⚡ Fun fact: I think I’m funny. I think.
 
 ---
 
 ### 🧠 Languages and Tools
 
-<p align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
@@ -37,13 +37,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
+</div>
 
 ---
 
 ### 📡 Connect with me
 
-<p align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://dev.to/greedypanda0"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="30" /></a>
   <a href="https://linkedin.com/in/pratham-rajpoot-ab57b7283"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
   <a href="https://instagram.com/dream.kier"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" /></a>
@@ -53,13 +53,19 @@
   <a href="https://www.leetcode.com/kasket26"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
   <a href="https://www.hackerearth.com/@greedypanda"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="30" /></a>
   <a href="https://discord.gg/YDrZejdWqR"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" /></a>
-</p>
+</div>
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=greedypanda0&show_icons=true&theme=radical" alt="GreedyPanda's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=greedypanda0&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📚 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greedypanda0&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -74,3 +80,4 @@
 > _“Build like a monk, debug like a demon.”_  
 > — Me (probably during a 2AM code sprint)
 
+</div>
