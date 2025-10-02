@@ -77,7 +77,7 @@
 ### 📰 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [hey](https://dev.to/greedypanda0/hey-5a8m)
+- [hey](https://forem.com/greedypanda0/hey-5a8m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
